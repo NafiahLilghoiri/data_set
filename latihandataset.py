@@ -140,3 +140,7 @@ print(PBuy)
 
 PNoBuy = (PNoBuy1*PSum) *100
 print(PNoBuy)
+
+# Marah Nafiah Lilghoiri
+# E42240962
+# Sistem Cerdas
