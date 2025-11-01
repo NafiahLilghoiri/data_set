@@ -39,7 +39,7 @@ PHolidayYes = 18/41
 PWeekdayYes = 9/41
 PWeekendYes = 14/41
 
-PHoliday = 25/50
+PHoliday = 24/50
 PWeekday = 11/50
 PWeekend = 15/50
 
